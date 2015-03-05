@@ -1,0 +1,29 @@
+{
+  "name": "jquery-ujs-callback",
+  "version": "0.1.0",
+  "authors": [
+    "firelife <firelife@gmail.com>"
+  ],
+  "description": "jquery rails remote callback.",
+  "keywords": [
+    "jquery-ujs",
+    "rails"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/firelife/jquery-ujs-callback",
+  "dependencies": {
+    "jquery": ">1.8.*",
+    "jquery-ujs": "~1.0.2"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": [
+    "src/jquery-ujs-base.js",
+    "src/jquery-ujs-callback.js"
+  ]
+}
